@@ -1,0 +1,54 @@
+[Eagle]
+Version="07 06 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/19inch.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/40xx.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/74XX.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/A_eigene.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/EagleLibrary_Wuerth_Elektronik_eiCan_Fuse_Holder_Connectors_v4_20150113.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/HF46HF.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/RGB-Led.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/SMD.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/WKST3.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/attiny44.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/card_adapters.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/connect.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/frames.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/gameboy.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/halbleiter.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/intersil.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/linear.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/pic.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/rcl.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/special.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/supply.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/user.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/con-shiua-chyuan.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/atmel.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/con-molex.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/pinhead.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/linear.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/transistor.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/transistor-fet.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/transistor-neu-to92.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/transistor-npn.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/transistor-pnp.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/transistor-power.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/transistor-small-signal.lbr"
+UsedLibrary="D:/Programm files/EAGLE-7.6.0/lbr/Spezial/resistor-power.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="1059 569 1919 1027"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
