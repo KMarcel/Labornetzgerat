@@ -1,0 +1,14 @@
+#######################################
+# Syntax Coloring Map for library DigitalPoti
+#######################################
+
+#######################################
+# KEYWORD1 Classes, datatypes, and C++ keywords
+#######################################
+DigitalPoti	KEYWORD1
+Potis	KEYWORD1
+ 
+#######################################
+# KEYWORD2 Methods and functions
+#######################################
+setzeWiderstandwert	KEYWORD2
